@@ -1,8 +1,8 @@
 **Ingredients**:
-Flour
-Egg
-Milk
+- Flour
+- Egg
+- Milk
 
 **Materials**:
-Bowl
-Wooden spoon
+- Bowl
+- Wooden spoon
